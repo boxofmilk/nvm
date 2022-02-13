@@ -1,2 +1,3 @@
-lol = "lol"
-print(lol)
+let lol = "lol";
+console.log(lol);
+
